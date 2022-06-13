@@ -1,7 +1,7 @@
 # Assignment 2 - Research Track 2
 ---------------------------------
 A robot driving in a race track where it avoids collapsing into the boundaries while the user can change its speed
-## Installating and Running
+## Installing and Running
 ---------------------------
 This project simulation requires a ROS installation.
 After the project is installed or cloned, the workspace should be built by running the following command in the root of the workspace:
